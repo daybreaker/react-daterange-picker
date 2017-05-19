@@ -57,7 +57,7 @@
     "react-dom": "^0.14.0 || 15.x.x"
   },
   "dependencies": {
-    "calendar": "^0.1.0",
+    "calendar": "daybreaker/calendar.js",
     "classnames": "^2.1.1",
     "immutable": "^3.7.2",
     "moment": "^2.18.1",
